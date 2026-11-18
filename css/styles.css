@@ -1,0 +1,7 @@
+:root {
+  --brand: #0ea5e9;
+  --brand-dark: #0f172a;
+}
+
+.btn-primary { background: var(--brand); }
+.header-brand { background: var(--brand-dark); }
